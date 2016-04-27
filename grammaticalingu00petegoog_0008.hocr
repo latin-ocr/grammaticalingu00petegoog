@@ -1,0 +1,56 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN"
+    "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+<html xmlns="http://www.w3.org/1999/xhtml" xml:lang="en" lang="en">
+ <head>
+  <title>
+</title>
+<meta http-equiv="Content-Type" content="text/html;charset=utf-8" />
+  <meta name='ocr-system' content='tesseract 3.04.00' />
+  <meta name='ocr-capabilities' content='ocr_page ocr_carea ocr_par ocr_line ocrx_word'/>
+</head>
+<body>
+  <div class='ocr_page' id='page_1' title='image "./grammaticalingu00petegoog_0008.png"; bbox 0 0 2908 4852; ppageno 0'>
+   <div class='ocr_carea' id='block_1_1' title="bbox 369 653 940 783">
+    <p class='ocr_par' dir='ltr' id='par_1_1' title="bbox 369 653 940 783">
+     <span class='ocr_line' id='line_1_1' title="bbox 369 653 940 783; baseline 0.005 -4"><span class='ocrx_word' id='word_1_1' title='bbox 369 653 940 783; x_wconf 84' lang='lat' dir='ltr'><strong>GRAMMATICA</strong></span> 
+     </span>
+    </p>
+   </div>
+   <div class='ocr_carea' id='block_1_2' title="bbox 305 1063 1191 1182">
+    <p class='ocr_par' dir='ltr' id='par_1_2' title="bbox 305 1063 1191 1182">
+     <span class='ocr_line' id='line_1_2' title="bbox 305 1063 1191 1182; baseline 0.002 -6"><span class='ocrx_word' id='word_1_2' title='bbox 305 1074 512 1180; x_wconf 63' lang='lat' dir='ltr'>GUAE</span> <span class='ocrx_word' id='word_1_3' title='bbox 575 1063 1191 1182; x_wconf 77' lang='lat' dir='ltr'>ARME&#39;NIACAE..</span> 
+     </span>
+    </p>
+   </div>
+   <div class='ocr_carea' id='block_1_3' title="bbox 446 2437 850 2540">
+    <p class='ocr_par' dir='ltr' id='par_1_3' title="bbox 446 2437 850 2540">
+     <span class='ocr_line' id='line_1_3' title="bbox 446 2437 850 2540; baseline 0.007 -20"><span class='ocrx_word' id='word_1_4' title='bbox 446 2455 487 2521; x_wconf 68' lang='grc' dir='ltr'><strong>ιι</strong></span> <span class='ocrx_word' id='word_1_5' title='bbox 519 2437 850 2540; x_wconf 73' lang='lat' dir='ltr'><strong>PETERMANN,</strong></span> 
+     </span>
+    </p>
+   </div>
+   <div class='ocr_carea' id='block_1_4' title="bbox 134 3728 1150 3773">
+    <p class='ocr_par' dir='ltr' id='par_1_4' title="bbox 134 3728 1150 3773">
+     <span class='ocr_line' id='line_1_4' title="bbox 134 3728 1150 3773; baseline -0.009 0"><span class='ocrx_word' id='word_1_6' title='bbox 134 3728 1150 3773; x_wconf 48' lang='lat' dir='ltr'>m</span> 
+     </span>
+    </p>
+   </div>
+   <div class='ocr_carea' id='block_1_5' title="bbox 399 3849 882 4143">
+    <p class='ocr_par' dir='ltr' id='par_1_5' title="bbox 399 3849 882 4143">
+     <span class='ocr_line' id='line_1_5' title="bbox 558 3849 735 3912; baseline -0.006 -10"><span class='ocrx_word' id='word_1_7' title='bbox 558 3849 735 3912; x_wconf 75' lang='lat' dir='ltr'><strong>BEROLINI.</strong></span> 
+     </span>
+     <span class='ocr_line' id='line_1_6' title="bbox 399 3979 882 4028; baseline -0.006 -4"><span class='ocrx_word' id='word_1_8' title='bbox 399 3979 615 4026; x_wconf 74' lang='lat' dir='ltr'><strong>summus</strong></span> <span class='ocrx_word' id='word_1_9' title='bbox 648 3981 678 4028; x_wconf 70' lang='lat'><strong>(3.</strong></span> <span class='ocrx_word' id='word_1_10' title='bbox 711 3981 882 4026; x_wconf 69' lang='lat' dir='ltr'><strong>mcum.</strong></span> 
+     </span>
+     <span class='ocr_line' id='line_1_7' title="bbox 606 4090 683 4143; baseline 0 -1"><span class='ocrx_word' id='word_1_11' title='bbox 606 4090 683 4143; x_wconf 83' lang='lat'><strong>1837.</strong></span> 
+     </span>
+    </p>
+   </div>
+   <div class='ocr_carea' id='block_1_6' title="bbox 0 0 1458 4852">
+    <p class='ocr_par' dir='ltr' id='par_1_6' title="bbox 0 0 1458 4852">
+     <span class='ocr_line' id='line_1_8' title="bbox 0 0 1458 4852; baseline 0 0"><span class='ocrx_word' id='word_1_12' title='bbox 0 0 1458 4852; x_wconf 95' lang='lat' dir='ltr'><strong> </strong></span> 
+     </span>
+    </p>
+   </div>
+  </div>
+ </body>
+</html>
